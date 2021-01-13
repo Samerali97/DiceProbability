@@ -1,0 +1,11 @@
+Name : Samer Ali
+NetID : U33047132
+---
+During this project i've learned how to apply implicit operators,
+and also grasped the idea of how important objects are within a program
+and how they are able to simplify the code. Making objects of Dice, Coin, Card,
+and DeckOfCards worked really well with the application of this project. One of the
+most challenging aspects was really understanding how implicit operators work 
+correctly, and how to override a ToString function correctly. I believe i would
+adjust my card class and deck class to have private members, in which shall
+apply encapsulation more for better security of the program.
